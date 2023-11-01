@@ -9,18 +9,24 @@ background-color:orange;
 .dos{
 background-color:sky blue;
 }
+}
+.tres{
+background-color:sky blue;
+}
 </style>
 </head>
 <body>
 <div class="uno" >
-<h1> Contenido1 de la etiqueta div HTML </h1>
-<p>   La etiqueta Div se utiliza para agrupar muchas etiquetas HTML como tablas, listas y párrafos en una página web.
-La etiqueta div se utiliza principalmente en páginas web vacías para dividir o crear secciones de contenido o etiquetas HTML. </p>
+<h1> Sara Márquez </h1>
+<p> Sara es la que escribe y no se va a escribir a sí misma </p>
 </div>
 <div class="dos">
-<h1> Contenido2 de la etiqueta div HTML </h1>
-<p>   Para hacer una sección de datos o contenidos requeridos se utilizan múltiples etiquetas div en el contenedor.
-Ejemplo: header, footer, barra de navegación, tabla, imágenes, textos, etc. </p>
+<h1> Agustina Amarillo</h1>
+<p> Es la petisa de ojos y pelo negro, mi 2, la más leal. </p>
+</div>
+<div class="tres">
+<h1> Mauricio Da Silva</h1>
+<p> Es como la tierra pero es diertido,nunca hace nada y su novia es linda </p>
 </div>
 </body>
 </html>
